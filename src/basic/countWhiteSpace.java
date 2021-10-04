@@ -4,7 +4,7 @@ import static java.lang.Character.isWhitespace;
 //Để gọi tới 1 method ở khác class thì: 1/Nếu method = static then Class.method hoặc import method; 2/Nếu method != static then khởi tạo bien instance cho class đó rồi gọi bien.method
 
 
-public class TimBlankTrongChuoi {
+public class countWhiteSpace {
 	public static void main(String[] args) {
 		//Neu viet ben trong method thi phai khoi tao gia tri ban dau, con viet ben ngoai method thi ko can
 			int count=0;
