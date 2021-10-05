@@ -4,6 +4,9 @@ import static java.lang.Character.toLowerCase;
 public class findUniqueChar {
 	public static void main(String[] args) {
 		System.out.println(returnUniqueChar2("Moo mok ki"));
+		
+		//Chỗ này nếu ko muốn tạo đối tượng mới thì phải gọi method static
+		//Với method/class là static thì ko nhất thiết phải khởi tạo đối tượng mới gọi được method/class đó.
 	}
 
 	
