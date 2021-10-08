@@ -1,7 +1,7 @@
 package basic;
 import static java.lang.Character.isDigit;
 
-public class checkContainNumber {
+public class CheckContainNumber {
 	public static void main(String[] args) {
 		System.out.println(isContainNumber("9999"));
 	}
@@ -15,3 +15,5 @@ public class checkContainNumber {
 
 	}
 }
+
+

@@ -1,8 +1,8 @@
 package basic;
 
-public class checkPalindromeText {
+public class CheckPalindromeText {
 	public static void main(String[] args) {
-		checkPalindromeText t = new checkPalindromeText();
+		CheckPalindromeText t = new CheckPalindromeText();
 		System.out.println(t.isPalindrome2("wow"));
 	}
 

@@ -1,7 +1,7 @@
 package basic;
 import static java.lang.Character.toLowerCase;
 
-public class findUniqueChar {
+public class FindUniqueChar {
 	public static void main(String[] args) {
 		System.out.println(returnUniqueChar2("Moo mok ki"));
 		
